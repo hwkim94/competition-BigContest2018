@@ -1,0 +1,46 @@
+-------------CNN-------------
+CNN1
+-Adam
+
+CNN2
+-Adam
+-Weighted Label
+
+CNN3
+-Adam
+-drop label(retained)
+
+CNN4
+-Adam
+-Weighted Label
+-drop label(retained)
+
+CNN5
+-Adam
+-deep
+
+CNN6
+-RMSProp
+
+CNN7
+-RMSProp
+-Weighted Label
+
+CNN8
+-RMSProp
+-drop label(retained)
+
+CNN9
+-RMSProp
+-Weighted Label
+-drop label(retained)
+
+CNN10
+-Adadelta
+
+CNN_VGG
+-3x3 filter 적용
+
+CNN_resNet
+-3x3 filter 적용
+-resNet 적용
