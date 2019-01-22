@@ -1,1 +1,1 @@
-# competition-BigContest2018
+# competitions
