@@ -17,7 +17,8 @@
 - 분석기법 
   - Hyper bagging, One vs Rest, Classifer Chain
   - RF, XGBOOST
-  - RNN, Bi-LSTM, CNN for sentence classification, Transformer
-- 결과 : 최우수
+  - MLP, RNN, Bi-LSTM, CNN for sentence classification, Transformer
+- 결과 : 최우수상
+
 
 
