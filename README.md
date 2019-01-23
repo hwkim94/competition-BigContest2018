@@ -1,1 +1,23 @@
 # competitions
+
+## 연세대학교 상경대학 빅데이터 공모전(YBDAC)
+- 2018년 2학기
+- 주최 : 연세대학교 상경대학
+- 주제 : PRAIN의 데이터 분석
+- 분석기법 
+  - 데이터 수집 : 주어진 데이터 + 크롤링
+  - RF, XGBOOST, AE를 이용한 수주율 예측 모델링
+  - 네트워크 분석 및 시각화
+- 결과 : 장려상
+
+## 빅콘테스트 2018
+- 2018년 2학기 
+- 주최 : 빅콘테스트 사무국
+- 주제 : 블레이드 앤 소울 유저 이탈 예측
+- 분석기법 
+  - Hyper bagging, One vs Rest, Classifer Chain
+  - RF, XGBOOST
+  - RNN, Bi-LSTM, CNN for sentence classification, Transformer
+- 결과 : 최우수
+
+
